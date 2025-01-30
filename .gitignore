@@ -1,0 +1,23 @@
+# Ignore environment variables
+.env
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore virtual environment
+venv/
+.env/
+
+# Ignore logs
+*.log
+
+# Ignore unnecessary OS files
+.DS_Store
+Thumbs.db
+
+# Ignore Docker build files
+*.tar
+

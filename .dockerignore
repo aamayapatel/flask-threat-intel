@@ -1,0 +1,15 @@
+# Ignore local development files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.env
+
+# Ignore Git files
+.git
+.gitignore
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
