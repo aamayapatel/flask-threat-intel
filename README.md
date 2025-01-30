@@ -85,9 +85,3 @@ http://localhost:5000/check-ip?ip=8.8.8.8
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ___
-
-## 🚀 Happy Coding!
-```python
-print("Happy Coding! 🚀")
-```
-```python
